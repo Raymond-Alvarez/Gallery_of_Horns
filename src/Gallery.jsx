@@ -1,6 +1,6 @@
 // LAB 01 - FEATURE TASKS
 // The Gallery component needs to pass title, imageUrl, and description into each HornedBeast component.
-// The Gallery component needs to render at least two copies of a component called HornedBeast
+// The Gallery component needs to render at least two copies of a component called HornedBeast.
 // STRETCH GOAL: Given the following array (found in the data.json), loop over the data to display three HornedBeast components
 
 
